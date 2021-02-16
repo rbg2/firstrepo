@@ -1,5 +1,20 @@
 body{
-    color:blueviolet;
     text-align: center;
     font-family: "Arial";
+}
+
+.container{
+    width: 70%;
+    border: 1px solid red;
+    margin: 0 auto; 
+}
+
+.container .titulo{
+    font-size: 18px;
+    color: green;
+}
+
+.container .parrafo{
+    text-align: left;
+    font-size: 12px;
 }
