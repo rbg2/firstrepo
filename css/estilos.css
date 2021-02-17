@@ -9,6 +9,12 @@ body{
     margin: 0 auto; 
 }
 
+.cabecera{
+    background: brown;
+    color: #fff;
+    
+}
+
 .container .titulo{
     font-size: 18px;
     color: green;
